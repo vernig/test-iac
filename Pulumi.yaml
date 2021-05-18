@@ -1,0 +1,3 @@
+name: twilio-iac-with-actions
+runtime: nodejs
+description: Deploy a Taskrouter workspace using Pulumi and GitHub Actions

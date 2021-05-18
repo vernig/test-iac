@@ -1,0 +1,9 @@
+{
+    "name": "taskrouter-contact-center",
+    "main": "index.js",
+    "dependencies": {
+        "@pulumi/pulumi": "^3.2.1",
+        "twilio": "^3.62.0",
+        "twilio-pulumi-provider": "0.0.11"
+    }
+}
